@@ -1,0 +1,25 @@
+.teamheader{
+    background-color: red;
+    padding: 40px;
+}
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+
+
+ul{
+    list-style-type: none;
+}
+li a:hover{
+    background-color: red;
+}
+a{
+    text-decoration: none;
+}
+li{
+    border: 2px red;
+    padding: 10px;
+    float: left;
+}

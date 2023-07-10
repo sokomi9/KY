@@ -1,0 +1,58 @@
+body{
+    background-color: white;
+}
+.header{
+    background-color: red;
+    padding: 30px;
+}
+.seniorteam{
+    background-image: url(senoir\ team\ 2.jpg);
+    height: 500px;
+    width: 1000px;
+    background-repeat: no-repeat;
+}
+a:link, a:visited {
+   
+    color: rgb(255, 253, 253);
+    padding: 20px;
+    border-radius: 15%;
+    border: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+a:hover, a:active {
+    background-color: rgb(197, 99, 99);
+}
+button{
+    background-color: rgb(132, 120, 120);
+    border: 0px;
+}
+
+.coaches{
+    background-image: url(kochare.webp);
+    height: 500px;
+    width: 1000px;
+    background-repeat: no-repeat;
+}
+.footer{
+    background-color: red;
+   padding: 100px;
+
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+li a{
+    background-color: red;
+    padding: 15px 25px;
+    display: inline-block;
+
+    
+}
+
+li{
+    float: right;
+}
